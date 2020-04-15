@@ -42,7 +42,7 @@ $ rails -v
 その後、次のコマンドで必要になる RubyGems をインストールします。
 
 ```
-& bundle install
+$ bundle install
 ```  
 
 ※ bundle installに失敗する場合、Gemfile.lockを削除した後に、再度上記のコマンドを実行します。
